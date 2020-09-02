@@ -1,0 +1,25 @@
+header{
+	width: 100%;
+	padding: 50px 0;
+	.menu{
+		a{
+			color: #fff;
+			text-decoration: none;
+			margin-right: 10px;
+			font-size: 18px;
+			&:hover{
+				color: #F7F8E0;
+				//text-decoration: underline;
+			}
+		}
+	}
+	.logo{
+		img{
+			width: 100%;
+			max-width: 1000px;
+			max-height: 200px;
+			vertical-align: top;
+		}
+	}
+			
+}
